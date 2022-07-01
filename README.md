@@ -1,2 +1,2 @@
 # Guess-a-number
-https://vaibhavkverma.github.io/Guess-a-number/
+https://ashutosh008-ashu.github.io/Guess-The-Number/
